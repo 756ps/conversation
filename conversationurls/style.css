@@ -1,0 +1,15 @@
+#centertext {
+    text-align: center;
+}
+
+#mysecondparagraph,
+#mythirdparagraph {
+    width: 45%;
+    margin-left: auto;
+    margin-right: 0;
+    text-align: right;
+}
+
+#bigA {
+    font-size: 60px;
+}
